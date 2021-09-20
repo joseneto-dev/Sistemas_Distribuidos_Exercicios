@@ -1,10 +1,10 @@
 # Sistemas Distribuidos Exercicios
 
-Simple overview of use/purpose.
+<p>O enunciados dos exercicicos pode ser encontrados no <a href="https://drive.google.com/drive/u/0/folders/1a5UR1QFPTPF2qPHzp8ei1O9EEZqIlgxI">Drive da Turma</a></p>
 
 ## Description
 
-Esse e um diretório dedicado aos exercícios da matéria de sistemas distribuídos e IOT do curso de Sistemas de Informação do Centro Universitário Una.
+<p>Esse e um diretório dedicado aos exercícios da matéria de sistemas distribuídos e IOT do curso de Sistemas de Informação do Centro Universitário Una.</p>
 
 ## Getting Started
 
@@ -20,10 +20,8 @@ It's require requests run the exercices
 
 ## Authors
 
-Contributors names and contact info
-
-José Duarte de Abreu Neto(https://www.linkedin.com/in/jdaneto/)
-RA:320254749
+<p>José Duarte de Abreu Neto(https://www.linkedin.com/in/jdaneto/)</p>
+<p>RA:320254749</p>
 
 ## License
 
